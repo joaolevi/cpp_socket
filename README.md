@@ -1,2 +1,2 @@
-# cpp_socket
+# Multithread Socket Connection in C++
 Still implementing
