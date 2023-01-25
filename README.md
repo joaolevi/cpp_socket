@@ -14,7 +14,7 @@ To run this project you can run directly on the terminal with these cmd commands
 
 On the server.cpp path: `gcc -o server server.cpp` and `./server.out`
 
-On the client.cpp path: `gcc -o client client.cpp` and `./server.out`
+On the client.cpp path: `gcc -o client client.cpp` and `./client.out`
 
 #### Running as a Docker Image
 
